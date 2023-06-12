@@ -1,0 +1,5 @@
+float:left,right,top,botton;
+dispaly: flex;
+flex-direction:right;
+position:static;
+position:relative,absolute,fixed,sticky.
